@@ -22,4 +22,4 @@ Based on age a list of eligible candidates that can mentor new employees is crea
 ## Summary
 A total of 90398 employees are potential retirees during the _Silver Tsunami_. The company has a total of 300024 empoyees, this means that 30% of PH's total workforce is going to retire in the near future.
 
-With the current age requirement for mentorship eligibility there are not enough qualified, retirement-ready employees in the departments that can mentor the next generation of Pewlett Hackard employees. There are only 1549 eligible candidates, it is a a must to revise the qualifications to become eligible to the mentorship program.
+With the current age requirement for mentorship eligibility there are not enough qualified, retirement-ready employees in the departments that can mentor the next generation of Pewlett Hackard employees. There are only 1549 eligible candidates, it is highly recommended to revise the qualifications to become eligible to the mentorship program.
